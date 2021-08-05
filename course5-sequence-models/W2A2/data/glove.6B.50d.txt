@@ -1,1 +1,0 @@
-/home/jovyan/work-ro/W2A2/data/glove.6B.50d.txt
